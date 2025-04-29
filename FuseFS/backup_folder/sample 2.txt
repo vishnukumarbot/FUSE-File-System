@@ -1,1 +1,0 @@
-GNNs leverage labeled vertices, known as training vertices, to train a multi-layer neural network model across multiple epochs. Similar to traditional DNN training, each epoch involves multiple iterations to process all training vertices once. Each iteration randomly selects a batch of training vertices and consists of three key steps.
