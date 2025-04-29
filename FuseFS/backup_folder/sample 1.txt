@@ -1,0 +1,6 @@
+Number theory is the most ancient mathematics, the purest of an important branch of mathematics, mathematics prince 
+Gauss once said, mathematics is the queen of science, number theory is the queen of mathematics. The main task of number 
+theory is to study the nature of integers, because the nature of integers is complex and profound, difficult to consider, so 
+number theory has long been considered a beautiful mathematical discipline. And number theory is not only a pure 
+mathematical subject, but also a subject with strong application. Nowadays, with the rapid development of modern 
+computer network communication, number theory is widely and deeply applied in cryptography.
