@@ -81,7 +81,7 @@ fusermount -u ~/fuse_mount
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Basic file creation
